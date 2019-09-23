@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  [:status] = "dead"
+  [:status] => "dead"
 end
   
 
