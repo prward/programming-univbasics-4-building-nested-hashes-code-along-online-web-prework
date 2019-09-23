@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  ([:status] = "dead"
+  ([:montague][:hero][:status] = "dead"
 
   
 
